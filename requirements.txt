@@ -6,7 +6,7 @@ autobahn==19.8.1
 Automat==0.7.0
 autopep8==1.4.4
 certifi==2019.9.11
-cffi==1.16.0
+cffi
 chardet==3.0.4
 colorama==0.4.1
 constantly==15.1.0
@@ -25,8 +25,8 @@ jsmin==3.0.1
 lazy-object-proxy==1.4.1
 mccabe==0.6.1
 oauthlib==3.1.0
-pep8==1.7.1
-pillow==10.3.0
+pep8
+pillow
 psycopg2-binary==2.9.9
 pycodestyle==2.5.0
 pycparser==2.19
@@ -46,4 +46,4 @@ virtualenv==16.6.1
 virtualenvwrapper-win==1.2.5
 wrapt==1.11.2
 zope.interface==6.3
-gunicorn
+twilio==7.12.1
